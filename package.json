@@ -1,0 +1,21 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/sambit-innofied/learning-node#readme",
+  "bugs": {
+    "url": "https://github.com/sambit-innofied/learning-node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambit-innofied/learning-node.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"  
+  }
+}
